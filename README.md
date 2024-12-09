@@ -5,5 +5,5 @@ GitHub utilizado principalmente para repositórios academicos da minha jornada d
 
 <h2>| Acompanhe meu progresso na programação. </h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pheukk&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pheukk&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
