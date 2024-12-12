@@ -5,7 +5,7 @@ GitHub utilizado principalmente para repositórios academicos da minha jornada d
 
 <h2>| Linguagens já utilizadas: </h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pheukk&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pheukk&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 <h2>| Contato </h2>
