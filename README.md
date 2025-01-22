@@ -1,5 +1,5 @@
 <h1>| Olá, bem vindo! </h1>
-GitHub utilizado principalmente para repositórios academicos da minha jornada de formação. Aqui eu salvo todos os trabalhos e atividades envolvendo programação, geralmente com repositórios separados por matéria. Além disso, alguns repositórios de projetos e estudos pessoais.
+<h4>GitHub utilizado principalmente para repositórios academicos da minha jornada de formação. Aqui eu salvo todos os trabalhos e atividades envolvendo programação, geralmente com repositórios separados por matéria. Além disso, alguns repositórios de projetos e estudos pessoais.<h4>
 
 <h2>| Linguagens já utilizadas: </h2>
 <div align="left">
@@ -23,5 +23,3 @@ GitHub utilizado principalmente para repositórios academicos da minha jornada d
 </div>
 
 ###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ph-santos0&label=Profile%20views&color=202020" alt="ph-santos0" /> </p>
