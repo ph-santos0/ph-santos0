@@ -23,3 +23,5 @@ GitHub utilizado principalmente para repositórios academicos da minha jornada d
 </div>
 
 ###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ph-santos0&label=Profile%20views&color=202020" alt="ph-santos0" /> </p>
