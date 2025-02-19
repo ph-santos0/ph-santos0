@@ -1,5 +1,8 @@
-<h1>| Olá, bem vindo! </h1>
-<h4>GitHub utilizado principalmente para repositórios academicos da minha jornada de formação. Aqui eu salvo todos os trabalhos e atividades envolvendo programação, geralmente com repositórios separados por matéria. Além disso, alguns repositórios de projetos e estudos pessoais.<h4>
+<h1>| Olá, bem-vindo! </h1>
+<h4 style="text-align: justify;">
+GitHub utilizado principalmente para repositórios acadêmicos da minha jornada de formação. Aqui eu salvo todos os trabalhos e atividades envolvendo programação, geralmente com repositórios separados por matéria. Além disso, alguns repositórios de projetos e estudos pessoais.
+</h4>
+
 
 <h2>| Linguagens já utilizadas: </h2>
 <div align="left">
