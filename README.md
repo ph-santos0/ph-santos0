@@ -1,6 +1,9 @@
 <h1>| Olá, bem-vindo! </h1>
 <h4 style="text-align: justify;">
 GitHub utilizado principalmente para repositórios acadêmicos da minha jornada de formação. Aqui eu salvo todos os trabalhos e atividades envolvendo programação, geralmente com repositórios separados por matéria. Além disso, alguns repositórios de projetos e estudos pessoais.
+
+  
+  Lattes: http://lattes.cnpq.br/4741144152733992
 </h4>
 
 
