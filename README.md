@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=120&section=header"/>
-<h1>| Olá, bem-vindo! </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Olá,+seja+bem+vindo+!;)](https://git.io/typing-svg)
+
 <h4 style="text-align: justify;">
 GitHub utilizado principalmente para repositórios acadêmicos da minha jornada de formação. Aqui eu salvo todos os trabalhos e atividades envolvendo programação, geralmente com repositórios separados por matéria. Além disso, alguns repositórios de projetos e estudos pessoais.
 
