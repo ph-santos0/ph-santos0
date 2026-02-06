@@ -12,7 +12,7 @@ GitHub utilizado principalmente para repositórios acadêmicos da minha jornada 
 
 <h2>| Linguagens já utilizadas: </h2>
 <div align="left">
-  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=ph-santos0&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=16&theme=dark&hide_border=false&order=2" height="220" alt="languages graph"  />
+  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=ph-santos0&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2" height="220" alt="languages graph"  />
 </div>
 
 <h2>| Contato </h2>
