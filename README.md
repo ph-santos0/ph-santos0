@@ -8,10 +8,10 @@ GitHub utilizado principalmente para repositórios acadêmicos da minha jornada 
 
 <h2>| Atuação Atual </h2>
 
--  **Desenvolvedor de Módulos no [SUAP IFMG](https://suap.ifmg.edu.br/)**
--  **Desenvolvedor Bolsista PIBIT** — [SEMAE Project](https://github.com/ph-santos0/semae_project)
--  **Tech Lead** — [Cardápio UAN](https://github.com/ph-santos0/cardapio-uan)
--  **Monitor Bolsista de Programação** — Aulas de lógica de programação em C++.
+-  **Desenvolvedor de Módulos** - [SUAP IFMG](https://suap.ifmg.edu.br/)
+-  **Desenvolvedor Bolsista PIBIT** - [SEMAE Project](https://github.com/ph-santos0/semae_project)
+-  **Tech Lead** - [Cardápio UAN](https://github.com/ph-santos0/cardapio-uan)
+-  **Monitor Bolsista de Programação** - Aulas de lógica de programação em C++.
 
 
 
