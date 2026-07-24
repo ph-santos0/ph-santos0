@@ -25,8 +25,8 @@ GitHub utilizado principalmente para repositórios acadêmicos da minha jornada 
 
 <h2>| Links e Contato </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](...)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](...)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](...)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](...)
-[![Lattes](https://img.shields.io/badge/Lattes-1E88E5?style=for-the-badge&logo=googlescholar&logoColor=white)](...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph-santos0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ph.pedrohr/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5533999620781)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phsantos3010@gmail.com)
+[![Lattes](https://img.shields.io/badge/Lattes-1E88E5?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/4741144152733992)
