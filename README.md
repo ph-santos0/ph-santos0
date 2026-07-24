@@ -12,33 +12,21 @@ GitHub utilizado principalmente para repositórios acadêmicos da minha jornada 
 -  **Desenvolvedor Bolsista PIBIT** - [SEMAE Project](https://github.com/ph-santos0/semae_project)
 -  **Líder Técnico de Projeto** - [Cardápio UAN](https://github.com/ph-santos0/cardapio-uan)
 -  **Monitor Bolsista de Programação** - [Monitoria 2026](https://github.com/ph-santos0/Monitoria-2026)
+- **Desenvolvedor e Autor do TCC** - [SIGMA - Sistema Integrado de Gestão de Monitorias Acadêmicas](https://github.com/ph-santos0/sigma-monitorias)
 
 
-
-  
-  Lattes: http://lattes.cnpq.br/4741144152733992
 </h4>
 
 
 <h2>| Linguagens já utilizadas: </h2>
 <div align="left">
-  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=ph-santos0&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&exclude_repo=TrabalhoWEBII" height="220" alt="languages graph" />
+  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=ph-santos0&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=22&theme=dark&hide_border=false&order=2&exclude_repo=TrabalhoWEBII" height="220" alt="languages graph" />
 </div>
 
-<h2>| Contato </h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/ph-santos0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ph.pedrohr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/5533999620781" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://mailto:phsantos3010@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<h2>| Links e Contato </h2>
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](...)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](...)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](...)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](...)
+[![Lattes](https://img.shields.io/badge/Lattes-1E88E5?style=for-the-badge&logo=googlescholar&logoColor=white)](...)
