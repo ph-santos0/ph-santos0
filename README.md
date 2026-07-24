@@ -11,7 +11,7 @@ GitHub utilizado principalmente para repositórios acadêmicos da minha jornada 
 -  **Desenvolvedor de Módulos** - [SUAP IFMG](https://suap.ifmg.edu.br/)
 -  **Desenvolvedor Bolsista PIBIT** - [SEMAE Project](https://github.com/ph-santos0/semae_project)
 -  **Líder Técnico de Projeto** - [Cardápio UAN](https://github.com/ph-santos0/cardapio-uan)
--  **Monitor Bolsista de Programação** - [Monitoria 2026](https://github.com/ph-santos0/Monitoria-2026).
+-  **Monitor Bolsista de Programação** - [Monitoria 2026](https://github.com/ph-santos0/Monitoria-2026)
 
 
 
